@@ -11,7 +11,10 @@
 This toolkit is a core component of a much larger, **private-by-design AI platform** I'm building. It's designed to be the central, searchable brain for all your data, running entirely on your own hardware.
 
 If you're tired of generic AI solutions and believe in the power of data privacy, follow the journey.
-See also my smart-ingest-kit @ https://github.com/2dogsandanerd/smart-router-kit
+
+See also my smart-router-kit. Stop sending every query to every data source. A lightweight, production-ready RAG routing toolkit 
+that uses an LLM to intelligently route user queries to the right tool or data source. @ https://github.com/2dogsandanerd/smart-router-kit
+
 ➡️ **[Get early access and join the Private AI Lab here](https://mailchi.mp/38a074f598a3/github_catcher)** ⬅️
 
 ---
