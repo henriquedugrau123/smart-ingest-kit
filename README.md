@@ -15,6 +15,9 @@ If you're tired of generic AI solutions and believe in the power of data privacy
 See also my smart-router-kit. Stop sending every query to every data source. A lightweight, production-ready RAG routing toolkit 
 that uses an LLM to intelligently route user queries to the right tool or data source. @ https://github.com/2dogsandanerd/smart-router-kit
 
+------->>>>>>> You also might be intrested in my "Knowledge‑Base Self‑Hosting Kit" – a production‑ready starter that glues Smart‑Ingest‑Kit & Smart‑Router‑Kit together <<<<<<<<-------
+            --------------->>>>>>>>>>>>>>>>>>   https://www.reddit.com/r/docling/comments/1p6koa0/knowledgebase_selfhosting_kit_a_productionready/ <<<<<<<<<<<<<----------
+            
 ➡️ **[Get early access and join the Private AI Lab here](https://mailchi.mp/38a074f598a3/github_catcher)** ⬅️
 
 ---
